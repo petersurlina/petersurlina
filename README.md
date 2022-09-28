@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @petersurlina
 - 👀 I’m interested in Data Science, Robotics, and Application development.
 - 🌱 I’m currently learning (ROS) Robot Operating System, Javascript, and Julia.
-- 📫 Reach me by email @ petersurlina23@gmail.com
+- 📫 Reach me by email: petersurlina23@gmail.com
