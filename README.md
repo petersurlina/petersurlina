@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @petersurlina
-- 👀 I’m interested in Data Science, Robotics, and Application development.
-- 🌱 I’m currently learning (ROS) Robot Operating System, Javascript, and Julia.
+- 📚 Recent college graduate in Computer Science (*Focused in Application Development)
+- 👀 I’m interested in Data Science, Robotics, Data Visualization and Application development.
+- 🌱 I’m currently learning Data Vizualization Tools, Javascript, Algorithms, and Data Structures.
 - 📫 Reach me by email: petersurlina23@gmail.com
+- 👔 Connect with me on LinkedIn: https://www.linkedin.com/in/peter-surlina-379356203/
