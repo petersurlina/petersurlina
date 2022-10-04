@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petersurlina
-- 📚 Recent college graduate in Computer Science (*Focused in Application Development)
+- 📚 Recent college graduate in Computer Science (*Focused in Application development)
 - 👀 I’m interested in Data Science, Robotics, Data Visualization and Application development.
 - 🌱 I’m currently learning Data Vizualization Tools, Javascript, Algorithms, and Data Structures.
 - 📫 Reach me by email: petersurlina23@gmail.com
